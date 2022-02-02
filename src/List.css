@@ -1,0 +1,15 @@
+img {
+  clip-path: circle();
+  width: 15%;
+}
+article {
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+article .text {
+  padding: 0;
+  margin-left: 10px;
+  flex-direction: column;
+}
